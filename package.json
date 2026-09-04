@@ -1,8 +1,20 @@
 {
   "name": "skill2hire",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "homepage": "https://github.com/Sagnik556/Skill2Hire#readme",
+  "bugs": {
+    "url": "https://github.com/Sagnik556/Skill2Hire/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagnik556/Skill2Hire.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "postcss.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
